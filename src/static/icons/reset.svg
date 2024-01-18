@@ -1,0 +1,24 @@
+<svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="solar:restart-line-duotone" clip-path="url(#clip0_91_2548)">
+<g id="Group">
+<g id="Clip path group">
+<mask id="mask0_91_2548" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="21" height="20">
+<g id="solarRestartLineDuotone0">
+<path id="Vector" d="M0.5 0H20.5V20H0.5V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_91_2548)">
+<g id="Group_2">
+<path id="Vector_2" d="M16.9413 9.10605C17.3607 10.6681 17.1978 12.3294 16.4832 13.7804C15.7685 15.2313 14.5507 16.373 13.0568 16.9926C11.5628 17.6123 9.89444 17.6677 8.36263 17.1485C6.83082 16.6293 5.54 15.571 4.73065 14.1706C3.9213 12.7703 3.64864 11.1235 3.96346 9.53701C4.27828 7.95054 5.15911 6.53262 6.44185 5.54744C7.72458 4.56225 9.32172 4.07699 10.9357 4.18206C12.5497 4.28713 14.0704 4.97537 15.2146 6.11855L15.8038 6.70689" stroke="#707989" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M12.2686 6.70688H15.8044V3.17188" stroke="#707989" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_91_2548">
+<rect width="20" height="20" fill="white" transform="translate(0.5)"/>
+</clipPath>
+</defs>
+</svg>

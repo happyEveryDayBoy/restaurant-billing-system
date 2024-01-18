@@ -1,0 +1,11 @@
+.balance-card-container {
+	max-width: 1000px;
+	border-color: var(--gray-10);
+}
+
+.balance-card {
+	max-width: 320px;
+	border-radius: 10px;
+	border: 1px solid var(--Gray-20, rgba(141, 153, 174, 0.2));
+	background: var(--Gray-10, rgba(141, 153, 174, 0.1));
+}
