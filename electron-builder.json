@@ -1,0 +1,16 @@
+{
+    "appId": "com.arisan-global.restaurant-billing-system",
+    "productName": "Restaurant Billing System",
+    "directories": {
+        "output": "dist"
+    },
+    "files": [
+        "build/**/*",
+        "node_modules/**/*"
+    ],
+    "linux": {
+        "target": "AppImage",
+        "category": "Utility"
+    },
+    "extends": null
+}
